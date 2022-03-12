@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.imgProfile {
+  width: 60px;
+  height: auto;
+  margin: 10px;
+}
+
+.btnContacts {
+  display: flex;
+  justify-content: center;
+}
+
+.btnContacts button {
+  margin: 15px;
+  
+}
+
+th {
+  margin: 20px;
+}
